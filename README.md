@@ -1,6 +1,4 @@
-https://github.com/PedroHPAlmeida/curso-ansible-alura/blob/master/ansible_logo.png
-
-### Curso de Ansible: implementando sua infraestrutura como código
+<h1>Curso de Ansible: implementando sua infraestrutura como código</h1>
 
 ### O que aprendi com esse curso: 
 
