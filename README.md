@@ -1,4 +1,4 @@
-<h2>Curso Ansible - Infraestrutura como código da Formação DevOps da Alura</h2>
+<h2>Ansible - Infraestrutura como código da Formação DevOps da Alura</h2>
 
 O que aprendemos nesse curso:
 
